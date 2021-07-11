@@ -1,0 +1,21 @@
+{
+    "name": "hellozuz",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "init": "^0.1.2",
+        "socket.io": "^4.1.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.9"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "author": "jasveen",
+    "license": "ISC"
+}
