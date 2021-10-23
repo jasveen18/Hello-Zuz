@@ -36,13 +36,6 @@ Has lockdown made your life very fuzzy and you feel disconnected from your frien
 5. Run on localhost. A prompt will appear, enter yor name and enjoy.
 
 
-# Demo Video 🎥
-
-https://youtu.be/KqwNYAlf3C0
-
-Deployment link : https://hello-zuz.herokuapp.com/
-
-
 # Contribute
 
 Feel Free to Contribute to the Project with extra functionalities.
