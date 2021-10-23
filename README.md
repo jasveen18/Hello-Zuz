@@ -13,18 +13,11 @@ Has lockdown made your life very fuzzy and you feel disconnected from your frien
 
 # Tech Stack ⚔
 
-◼ HTML, CSS and Javascript for front-end
+◼ React for front-end
 
 ◼ Node.js with express for server
 
-
-# Packages included
-
-◼ Express
-
-◼ Socket.io
-
-◼ Nodemon
+◼ MongoDB for storing data
 
 
 # How to run on localhost?
